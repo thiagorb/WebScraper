@@ -1,0 +1,151 @@
+Processing: http://www.foxnews.com
+Words occurrences count: 3
+Chars count: 1370
+
+Word 'Obama' found in 3 sentence(s):
+1: 'NO MAGIC MOMENT'Officials: ObamaCare site improves, still needs work
+2: Sebelius adds Christmas levity to ObamaCare shopping experience?
+3: VIDEO: ObamaCare glitches a mistake or a moneymaker?
+
+Processing: http://www.dailymail.co.uk
+Words occurrences count: 19
+Chars count: 73641
+
+Word 'Walker' found in 13 sentence(s):
+1: On the scene: Fast & Furious actor Paul Walker dies in fiery car wreck
+2: Fast & Furious star Paul Walker dead in fiery car wreck: Actor killed after Porsche GT driven by his friend crashed into pole
+3: 'I cannot believe he is gone': Now Paul Walker's on-screen love interest Jordana Brewster pays tribute to her Fast And Furious co-star
+4: From teen heartthrob to action man, life and work of Paul Walker who died in car crash at 40 Fast And Furious actor had daughter, 15
+5: The final photograph: Fast and Furious star Paul Walker pictured getting into his friend's high-powered Porsche GT just moments before being engulfed in deadly fire ball
+6: The final photo: Fast & Furious star Paul Walker pictured getting into his friend's Porsche GT just moments before being engulfed in deadly fire ball
+7: Climbing into Porsche GT just 30 minutes before he died in crash fireball, the final photograph of Fast and Furious star Paul Walker
+8: On the scene: Fast & Furious star Paul Walker dies when Porsche GT hits a telegraph pole and bursts in flames
+9: UPDATED This tragic photograph (centre) captures actor Paul Walker, best known for his role in the Fast & Furious action movies, stepping into his friend's Porsche GT just moments before the horrendous crash in which the pair lost their lives in Santa Clarita on Saturday. Walker (left, and top right with his daughter Meadow) died after his close friend Roger Rodas lost control of a Porsche GT which smashed into a pole and a tree. The high-powered super-car burst into flames (bottom right) after it crashed in Santa Clarita, north of Los Angeles, at 3.30pm on Saturday. Walker, 40, who was in five of the six films about illegal street racing and heists, had been at an event for his charity Reach Out Worldwide before deciding to take the car out for a drive with his friend. The Los Angeles County Sheriff's Office has confirmed that speed was a factor in the crash. Up and down the road near the crash site were burned rubber and doughnut marks as though someone had smoked their tires in figure 8 patterns.
+10: Climbing into Porsche GT just 30 minutes before he died in crash fireball, the final photograph of Fast and Furious star Paul Walker UPDATED This tragic photograph (centre) captures actor Paul Walker, best known for his role in the Fast & Furious action movies, stepping into his friend's Porsche GT just moments before the horrendous crash in which the pair lost their lives in Santa Clarita on Saturday. Walker (left, and top right with his daughter Meadow) died after his close friend Roger Rodas lost control of a Porsche GT which smashed into a pole and a tree. The high-powered super-car burst into flames (bottom right) after it crashed in Santa Clarita, north of Los Angeles, at 3.30pm on Saturday. Walker, 40, who was in five of the six films about illegal street racing and heists, had been at an event for his charity Reach Out Worldwide before deciding to take the car out for a drive with his friend. The Los Angeles County Sheriff's Office has confirmed that speed was a factor in the crash. Up and down the road near the crash site were burned rubber and doughnut marks as though someone had smoked their tires in figure 8 patterns. Comments (93) Videos Share Paul Walker pictured getting into Porsche moments before deadly crash
+11: Archive: Fast & Furious actor Paul Walker dies in fiery car crash aged 40
+12: Archive: Paul Walker 1973-2013
+13: TRAILER: Paul Walker in Fast & Furious 6 with Vin Diesel and The Rock
+
+Word 'China' found in 4 sentence(s):
+1: China to launch moon rover mission to scout out locations for a lunar base that will one day be used for a mission to Mars
+2: Will China's new hi-tech airport prove to be a flight of fancy? Praised as an architectural masterpiece, it has one small flaw: Nobody wants to fly there
+3: Young girl had a 'fully grown' dandelion inside her EAR and had to have it surgically removed by doctors in China
+4: Many of the sculptures found 2,200 years ago in the burial site of Emperor Qin Shi Huang in China's Shaanxi province were painted in bold colours like pink, red, green and blue.
+
+Processing: http://www.washingtonpost.com
+Words occurrences count: 19
+Chars count: 16019
+
+Word 'Walker' found in 6 sentence(s):
+1: 'Fast and Furious' actor Paul Walker dies in car crash
+2: Walker was passenger in friend's car
+3: Paul Walker
+4: ‘Fast & Furious’ actor Paul Walker dies in fiery car crash near Los Angeles
+5: 'Fast & Furious' actor Paul Walker dies at 40
+6: Paul Walker, 'Fast & Furious' star, dies in crash
+
+Word 'China' found in 2 sentence(s):
+1: China’s gradual expansion in East China Sea poses challenge for Japan
+2: Why did China impose its air defense zone? WorldViews | Max Fisher
+
+Word 'Obama' found in 10 sentence(s):
+1: President Obama and daughters Malia and Sasha dropped by Politics and Prose bookstore
+2: The White House says it met its Obamacare goal
+3: Obama shops at Politics and Prose
+4: Wonkblog: READ: The White House Obamacare progress report
+5: Obama shops at Politics and Prose bookstore
+6: Your Obamacare questions answered
+7: Obama shops at well-known Washington bookstore Politics and Prose
+8: Obama shops at Politics and Prose bookstore
+9: The push from the left is considered a critique of President Obama’s tenure and a challenge to Hillary Clinton in 2016.
+10: The White House says it met its Obamacare goal Wonkblog | Sarah Kliff
+
+Processing: http://news.google.com
+Words occurrences count: 1
+Chars count: 3274
+
+Word 'China' found in 1 sentence(s):
+1: ä¸­å›½ (China)
+
+Processing: http://news.bbc.co.uk
+Words occurrences count: 17
+Chars count: 9289
+
+Word 'Walker' found in 8 sentence(s):
+1: 1: Hollywood star Paul Walker mourned
+2: 1: US actor Paul Walker dies in crash
+3: Obituary: Paul Walker
+4: 3: US actor Paul Walker dies in crash
+5: 3: Paul Walker: Hero and heartthrob
+6: Fans, friends and fellow stars pay tribute to US actor Paul Walker, best known for the Fast & Furious films, who has died in a car crash at the age of 40.
+7: Hollywood star Paul Walker mourned
+8: Paul Walker: Life in pictures
+
+Word 'China' found in 7 sentence(s):
+1: China launches manned space mission Watch
+2: China astronauts return to Earth Watch
+3: LATEST China launches its first lunar rover mission - named Jade Rabbit - the next key step in its ambitious space programme
+4: Why China is fixated on the Moon
+5: China launches its first lunar rover mission - named Jade Rabbit - the next key step in the Asian superpower's ambitious space programme.
+6: 8: China launching Jade Rabbit mission
+7: China launches Moon rover mission
+
+Word 'Obama' found in 2 sentence(s):
+1: Obamacare website deadline passes
+2: 2: David Beckham butt of Obama's jokes Watch
+
+Processing: http://www.reuters.com
+Words occurrences count: 8
+Chars count: 10337
+
+Word 'Walker' found in 1 sentence(s):
+1: 'Fast and Furious' actor Paul Walker dies in car crash
+
+Word 'China' found in 4 sentence(s):
+1: China
+2: China
+3: China
+4: Asia week ahead: China plays defense
+
+Word 'Obama' found in 3 sentence(s):
+1: - Two months after the disastrous launch of a key component of President Barack Obama's healthcare law, administration officials on Sunday said they had achieved their goal of getting HealthCare.gov operating smoothly but warned the website will need more fixes.
+2: Obama administration says achieves key goal of fixing HealthCare.gov 10:40am EST
+3: Obama says 'nowhere to go but up' after HealthCare.gov debacle
+
+Processing: http://www.msn.com
+Words occurrences count: 2
+Chars count: 7167
+
+Word 'Walker' found in 1 sentence(s):
+1: Lembre carreira de Paul Walker, morto sÃ¡bado
+
+Word 'China' found in 1 sentence(s):
+1: ApÃ³s 3 anos de atraso, Brasil lanÃ§a satÃ©lite na China
+
+Processing: http://www.cnn.com
+Words occurrences count: 13
+Chars count: 10936
+
+Word 'Walker' found in 2 sentence(s):
+1: •'Fast & Furious' star Paul Walker killed in car crash
+2: •Paul Walker: Hollywood left stunned by death
+
+Word 'China' found in 10 sentence(s):
+1: U.S. airlines comply with China
+2: China 'to ease one-child policy'
+3: China's choice: Control or stability?
+4: Q&A: China's restive far west
+5: China launches first moon mission
+6: China's futuristic airport terminal
+7: China defied
+8: China's crazy property bubble
+9: US: China map 'creates risk of incident'
+10: Vietnam, China brace for typhoon
+
+Word 'Obama' found in 1 sentence(s):
+1: •Deadline Day: Obama administration 'on track' for website goal, agency says
+
+Total words occurrences count: 82
+Total chars count: 132033
+Total milliseconds spent with processing: 2825
+Total milliseconds spent with scraping: 288
